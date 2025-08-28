@@ -1,6 +1,6 @@
 # Задание первое
 
-class Persоn:
+class Person:
     def __init__(self):
         self.__age = 0
 
